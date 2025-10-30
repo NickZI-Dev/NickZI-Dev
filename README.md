@@ -1,8 +1,8 @@
 ## Olá pessoas, Nícolas Iesus aqui 👋
 
-- 🔭 Atuo atualmente como jovem aprendiz em uma empresa
-- 🌱 Estudando nodeJS no momento
-- 💻 Atualmente pretendo atuar como front-end
+- 🔭 Atualmente estou como auxiliar administrativo em uma empresa
+- 🌱 Estudando wordpress no momento
+- 💻 Pretendo atuar como front-end
 - 🫶 Meu sonho é trabalhar como programador FullStack
 - 📫 Contate-me pelo e-mail: Nicolasiesus10@gmail.com
 
