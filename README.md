@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou como auxiliar administrativo em uma empresa
 - 🌱 Estudando wordpress no momento
-- 💻 Pretendo atuar como front-end
+- 💻 Atualmente atuo como desenvolvedor front-end
 - 🫶 Meu sonho é trabalhar como programador FullStack
 - 📫 Contate-me pelo e-mail: Nicolasiesus10@gmail.com
 
